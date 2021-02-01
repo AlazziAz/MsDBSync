@@ -1,0 +1,16 @@
+{
+    "name": "alazzi-az/ms-db-sync",
+    "description": "simple package for handle sync between ms access db and another db",
+    "type": "library",
+    "require": {
+        "kkszymanowski/laravel-6-odbc": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammed Ali Azman",
+            "email": "56982649+mohammedazman@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
